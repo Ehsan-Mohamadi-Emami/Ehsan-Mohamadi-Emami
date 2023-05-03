@@ -13,19 +13,19 @@
 - DONT GIVE UP 😎 
  
 <br>
-<p align="center">
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
-<code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg?raw=true"></code>
+<p align="left" style="margin:10px; margin-top:70px">
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg?raw=true"></code>
 </p>
 
 
