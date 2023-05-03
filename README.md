@@ -13,7 +13,7 @@
 - DONT GIVE UP 😎 
  
 <br>
-<div align="center">
+<p align="center">
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg?raw=true"></code>
@@ -26,13 +26,13 @@
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg?raw=true"></code>
-</div>
+</p>
 
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Mohamadi-Emami&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ehsan-Mohamadi-Emami GitHub Stats">
-<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Mohamadi-Emami&count_private=true&theme=radical" alt="Ehsan-Mohamadi-Emami" />
-<img align="right" width="1000" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Mohamadi-Emami&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ehsan-Mohamadi-Emami GitHub Stats">
 
+<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Mohamadi-Emami&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ehsan-Mohamadi-Emami GitHub Stats">
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Mohamadi-Emami&count_private=true&theme=radical" alt="Ehsan-Mohamadi-Emami" />
+<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Mohamadi-Emami&layout=compact&theme=radical" alt="Ehsan-Mohamadi-Emami" />
 
 -------------------------------------------------
 Credit: [Ehsan-Mohamadi-Emami](https://github.com/Ehsan-Mohamadi-Emami)
