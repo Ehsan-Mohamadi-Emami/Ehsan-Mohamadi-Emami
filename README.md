@@ -1,10 +1,10 @@
 <h1 align="center">Hi 🖐 I am Ehsan Mohamadi Emami</h1> 
 <h2 align="center">Front-End Developer</h2> 
  
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/35cb4024aca4bfdf92e00c885e017702.gif"> 
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">  
  
-<p align="left"> <img src="https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/35cb4024aca4bfdf92e00c885e017702.gif" /> </p> 
-<h3> About me :</h3> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehsan-Mohamadi-Emami&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan" /> </p> 
+<h3> About me :</h3>  
  
 -  I’m currently learning :JavaScript ,  React , Node js 
  
