@@ -3,7 +3,7 @@
  
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif">  
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ehsan-Mohamadi-Emami&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanm-77&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan" /> </p> 
 <h3> About me :</h3>  
  
 -  I’m currently learning :JavaScript ,  React , Node js 
@@ -31,9 +31,9 @@
 
 
 
-<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=Ehsan-Mohamadi-Emami&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ehsan-Mohamadi-Emami GitHub Stats">
-<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Ehsan-Mohamadi-Emami&count_private=true&theme=radical" alt="Ehsan-Mohamadi-Emami" />
-<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Mohamadi-Emami&layout=compact&theme=radical" alt="Ehsan-Mohamadi-Emami" />
+<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ehsanm-77&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="ehsanm-77 GitHub Stats">
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanm-77&count_private=true&theme=radical" alt="Ehsan-Mohamadi-Emami" />
+<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanm-77&layout=compact&theme=radical" alt="Ehsan-Mohamadi-Emami" />
 
 -------------------------------------------------
 Credit: [Ehsan-Mohamadi-Emami](https://github.com/Ehsan-Mohamadi-Emami)
