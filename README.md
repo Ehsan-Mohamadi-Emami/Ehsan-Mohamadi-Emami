@@ -25,6 +25,7 @@
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true"></code>
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
+ <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg?raw=true"></code>
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg?raw=true"></code>
 </p>
 
@@ -37,4 +38,4 @@
 -------------------------------------------------
 Credit: [Ehsan-Mohamadi-Emami](https://github.com/Ehsan-Mohamadi-Emami)
 
-Last Edited on: 03/05/2023
+Last Edited on: 05/05/2023
