@@ -25,8 +25,12 @@
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true"></code>
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true"></code>
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true"></code>
- <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg?raw=true"></code>
 <code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg?raw=true"></code>
+<code><img height="40" style="margin:5px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Light.svg?raw=true"></code>
 </p>
 
 
