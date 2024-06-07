@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanm-77&label=Profile%20views&color=0e75b6&style=flat" alt="ehsan" /> </p> 
 <h3> About me :</h3>  
  
--  I’m currently learning :JavaScript ,  React , Node js 
- 
 - 📫 How to reach me : ehsanmohamadi780@gmail.com 
  
 - DONT GIVE UP 😎 
